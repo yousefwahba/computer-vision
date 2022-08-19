@@ -1,6 +1,6 @@
 # coputer vision
 
-vedio object detection useing opencv
+video object detection useing opencv
 
 ### code
 
